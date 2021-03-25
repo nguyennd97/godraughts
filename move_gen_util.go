@@ -1,10 +1,10 @@
 package godraughts
 
 import (
-	"./bit"
-	Direction "./direction"
-	"./magic"
-	Piece "./piece"
+	"github.com/dangnguyendota/godraughts/bit"
+	Direction "github.com/dangnguyendota/godraughts/direction"
+	"github.com/dangnguyendota/godraughts/magic"
+	Piece "github.com/dangnguyendota/godraughts/piece"
 )
 type MoveGenUtil struct {
 	moves []int64

@@ -1,8 +1,8 @@
 package godraughts
 
 import (
-	Color "./color"
-	"./magic"
+	Color "github.com/dangnguyendota/godraughts/color"
+	"github.com/dangnguyendota/godraughts/magic"
 )
 const (
 	endShift           int   = 50

@@ -1,7 +1,7 @@
 package godraughts
 
 import (
-	"./color"
+	"github.com/dangnguyendota/godraughts/color"
 	"log"
 	"strconv"
 	"strings"

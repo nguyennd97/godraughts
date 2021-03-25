@@ -1,10 +1,10 @@
 package godraughts
 
 import (
-	"./bit"
-	c "./color"
-	"./magic"
-	p "./piece"
+	"github.com/dangnguyendota/godraughts/bit"
+	c "github.com/dangnguyendota/godraughts/color"
+	"github.com/dangnguyendota/godraughts/magic"
+	p "github.com/dangnguyendota/godraughts/piece"
 )
 
 type BitBoard struct {

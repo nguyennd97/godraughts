@@ -1,10 +1,10 @@
 package magic
 
 import (
-	"../bit"
-	"../color"
-	dir "../direction"
 	"errors"
+	"github.com/dangnguyendota/godraughts/bit"
+	"github.com/dangnguyendota/godraughts/color"
+	dir "github.com/dangnguyendota/godraughts/direction"
 )
 
 var (

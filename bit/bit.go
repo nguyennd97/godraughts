@@ -1,6 +1,6 @@
 package bit
 
-import dir "../direction"
+import dir "github.com/dangnguyendota/godraughts/direction"
 
 var bitIndex = []int{
 	-1, 0, 1, 39, 2, 15, 40, 23, 3, 12, 16,
