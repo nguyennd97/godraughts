@@ -1,4 +1,4 @@
-package international
+package godraughts
 
 import (
 	"./color"
